@@ -1,3 +1,4 @@
+
 name: Generate snake animation
 
 on:
@@ -16,12 +17,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg with glitter snake (original background)
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#ffffff,#00ffff,#ff69b4,#ffffff&color_dots=#ffb6c1,#ffffff,#00ffcc
+          outputs: dist/snake.svg?palette=github-dark
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
