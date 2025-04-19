@@ -70,9 +70,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojas1430&" alt="ojas1430" /></p>
 
-<!-- 🐍 Snake animation -->
-<h3 align="left">Watch my contribution graph get eaten by a snake 🐍</h3>
-<p align="center">
-  <img src="https://github.com/ojas1430/ojas1430/blob/output/snake.svg" alt="snake animation" />
-</p>
-
