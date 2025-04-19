@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ojas Choudhary</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">An Android Developer focused on building scalable and user-centric mobile applications.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ojas1430&label=Profile%20views&color=0e75b6&style=flat" alt="ojas1430" />
+<!-- 🐍 Snake animation -->
+<p align="center">
+  <img src="https://github.com/ojas1430/ojas1430/blob/output/snake.svg" alt="snake animation" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojas1430&label=Profile%20views&color=0e75b6&style=flat" alt="ojas1430" /> </p>
+
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
