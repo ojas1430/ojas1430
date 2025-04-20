@@ -1,0 +1,20 @@
+{
+    "type": "rainbow",
+    "colors": [
+        "#FF0000",
+        "#FFA500",
+        "#FFFF00",
+        "#00FF00",
+        "#0000FF",
+        "#4B0082",
+        "#9400D3"
+    ],
+    "settings": {
+        "backgroundColor": "#000000",
+        "borderColor": "#ffffff",
+        "headerColor": "#00ff00",
+        "textColor": "#ffffff",
+        "contribLightColor": "#414141",
+        "contribDarkColor": "#00ff00"
+    }
+}
