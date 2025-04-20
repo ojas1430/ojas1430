@@ -9,10 +9,7 @@
 <!-- Cool Developer Animation -->
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120" />
 
-<!-- 3D Profile Section -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green-animate.svg" width="100%" alt="3d contrib"/>
-</div>
+
 
 <!-- Animated Stats Cards -->
 <p align="center">
@@ -22,8 +19,10 @@
 <!-- Matrix-style Contribution Graph -->
 <img src="https://github.com/ojas1430/ojas1430/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-<!-- 3D Contribution Calendar -->
-![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- 3D Profile Section -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green-animate.svg" width="100%" alt="3d contrib"/>
+</div>
 
 <!-- Awesome Badges -->
 <p align="center">
