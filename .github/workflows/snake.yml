@@ -21,22 +21,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
+            dist/snake.svg?color_snake=FF6B6B,4ECDC4,45B7D1,96CEB4&color_dots=#FFFFFF,#D4E4FF,#7EB6FF,#4B83DB,#1E56A0
           
-          # Custom color configuration for a rainbow snake
-          color_snake: |
-            "#FF6B6B",    # Coral red
-            "#4ECDC4",    # Turquoise
-            "#45B7D1",    # Sky blue
-            "#96CEB4"     # Mint green
-          
-          color_dots: |
-            "#FFFFFF",    # White background
-            "#D4E4FF",    # Very light contribution
-            "#7EB6FF",    # Light contribution
-            "#4B83DB",    # Medium contribution
-            "#1E56A0"     # Most contribution
-
       - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -44,4 +30,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-          
