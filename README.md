@@ -9,6 +9,11 @@
 <!-- Cool Developer Animation -->
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120" />
 
+<!-- 3D Profile Section -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green-animate.svg" width="100%" alt="3d contrib"/>
+</div>
+
 <!-- Animated Stats Cards -->
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=ojas1430&cc=000&tc=fff&ic=fff&bc=000">
