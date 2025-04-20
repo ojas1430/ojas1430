@@ -25,9 +25,9 @@ jobs:
           
           # Custom color configuration
           color_snake: |
-            "#9333EA",    # Main purple
-            "#A855F7",    # Light purple
-            "#7E22CE"     # Dark purple
+            "#FF69B4",    # Hot pink
+            "#FF1493",    # Deep pink
+            "#DB7093"     # Pale violet red
           
           color_dots: |
             "#F5F5F5",    # Very light gray background
