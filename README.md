@@ -16,6 +16,8 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=ojas1430&cc=000&tc=fff&ic=fff&bc=000">
 </p>
 
+
+
 <!-- Matrix-style Contribution Graph -->
 <img src="https://github.com/ojas1430/ojas1430/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 
@@ -47,7 +49,7 @@
 object Developer {
     val name = "Ojas Choudhary"
     val role = "Android Developer"
-    val language = listOf("Kotlin", "Java", "Python") 
+    val language = listOf("Kotlin", "Java") 
     val learning = "Jetpack Compose"
     
     val contact = "@ojas1430"
@@ -89,6 +91,13 @@ object Developer {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas1430&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00"/>
 
 </div>
+
+<!-- snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojas1430/ojas1430/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojas1430/ojas1430/output/snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ojas1430/ojas1430/output/snake.svg" />
+</picture>
 
 <!-- Activity Graph -->
 [![Ojas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojas1430&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
