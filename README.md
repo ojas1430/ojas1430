@@ -1,85 +1,132 @@
-<h1 align="center">Hi 👋, I'm Ojas Choudhary</h1>
-<h3 align="center">An Android Developer focused on building scalable and user-centric mobile applications.</h3>
+<div align="center">
 
-<!-- 🐍 Snake animation -->
+<!-- Custom Banner with Matrix-style animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20my%20Digital%20World&height=200&section=header&animation=twinkling&fontSize=40&fontAlignY=35&desc=Android%20Developer%20|%20Code%20Artisan%20|%20Tech%20Enthusiast&descAlignY=50"/>
+
+<!-- Animated Text -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Ojas+Choudhary;Android+Developer;Building+Beautiful+Mobile+Experiences)](https://git.io/typing-svg)
+
+<!-- Cool Developer Animation -->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120" />
+
+<!-- Animated Stats Cards -->
 <p align="center">
-  <img src="https://github.com/ojas1430/ojas1430/blob/output/snake.svg" alt="snake animation" />
+<img src="https://github-stats-alpha.vercel.app/api?username=ojas1430&cc=000&tc=fff&ic=fff&bc=000">
 </p>
 
+<!-- Matrix-style Contribution Graph -->
+<img src="https://github.com/ojas1430/ojas1430/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<!-- 3D Contribution Calendar -->
+![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<!-- Awesome Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ojas1430&label=Profile%20views&color=0e75b6&style=flat" alt="ojas1430" />
+  <img src="https://img.shields.io/badge/Focus-Android%20Development-brightgreen?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Lives%20in-India-red?style=for-the-badge&logo=google-maps" />
+  <img src="https://img.shields.io/badge/Age-22-blue?style=for-the-badge&logo=codecademy" />
+  <img src="https://img.shields.io/badge/Profile%20Views-${count}-brightgreen?style=for-the-badge&logo=profile-views" />
 </p>
+
+<!-- Animated Skill Icons -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="70px" height="70px">
+</p>
+
+</div>
+
+<!-- About Me Section with Cool Animation -->
+## 🚀 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```kotlin
+object Developer {
+    val name = "Ojas Choudhary"
+    val role = "Android Developer"
+    val language = listOf("Kotlin", "Java", "Python") 
+    val learning = "Jetpack Compose"
+    
+    val contact = "@ojas1430"
+}
+```
+
+<!-- Tech Stack with Animated Icons -->
+## 🛠️ Tech Arsenal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="25" height="25" /> **Mobile Development**
+```javascript
+{
+  "languages": ["Kotlin", "Java"],
+  "frameworks": ["Android SDK", "Jetpack Compose"],
+  "architecture": ["MVVM", "Clean Architecture", "MVI"]
+}
+```
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Tools" width="25" height="25" /> **Tools & Technologies**
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<!-- GitHub Stats with Custom Theme -->
+## 📊 GitHub Magic <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" />
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ojas1430&theme=tokyonight&margin-w=10" alt="GitHub Trophy" />
+  
+<!-- Unique Stats Card -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ojas1430&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=FFFFFF"/>
+
+<!-- Streak Stats with Matrix Theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojas1430&theme=highcontrast&hide_border=true&background=0D1117&stroke=00ff00&ring=00ff00&fire=orange&currStreakLabel=00ff00"/>
+
+<!-- Language Stats in Hexagon -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas1430&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00"/>
+
+</div>
+
+<!-- Activity Graph -->
+[![Ojas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojas1430&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Animated Trophies -->
+## 🏆 GitHub Trophies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ojas1430&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+<!-- Connect Section with Animated Icons -->
+## 🤝 Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
+<div align="center">
+  <a href="https://twitter.com/ojas1430">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.gif"/>
+  </a>
+  <a href="https://linkedin.com/in/ojas1430">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.gif"/>
+  </a>
+  <a href="https://www.leetcode.com/ojas1430">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.gif"/>
   </a>
 </div>
 
-<p align="center">
-  <a href="https://twitter.com/ojas1430" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ojas1430?logo=twitter&style=for-the-badge" alt="twitter follow" />
-  </a>
-</p>
+<!-- Spotify Now Playing with Visualization -->
+## 🎵 Vibing to <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
+<div align="center">
+  
+[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31s7xrcqnwwvhyvgqtkcjqcj4hxu)
 
----
-
-- 🌱 I’m currently learning **Android Development**
-- 📫 Reach me at **ojas1430@gmail.com**
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/ojas1430" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ojas1430" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ojas1430" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;" />
-  </a>
-</p>
-
----
-
-<!-- GitHub Stats Section -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojas1430&show_icons=true&locale=en&layout=compact&theme=gradient" alt="Top Languages" width="400" style="border: 2px solid #00c0ff; border-radius: 10px; padding: 5px; margin: 10px;" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojas1430&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="400" style="border: 2px solid #ffaa00; border-radius: 10px; padding: 5px; margin: 10px;" />
-</div>
+<!-- Cool Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
+<!-- Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ojas1430&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<!-- Random Dev Meme -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojas1430&theme=highcontrast" alt="GitHub Streak" width="400" style="border: 2px solid #00ff9f; border-radius: 10px; padding: 5px; margin: 10px;" />
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400">
 </div>
