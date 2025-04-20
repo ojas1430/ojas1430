@@ -16,13 +16,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@v2
+      
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=FF6B6B,4ECDC4,45B7D1,96CEB4&color_dots=#FFFFFF,#D4E4FF,#7EB6FF,#4B83DB,#1E56A0
-          
+          outputs: dist/snake.svg
+          snake_color: '#ff99c8,#fcf6bd,#d0f4de,#a9def9,#e4c1f9'
+          color_dots: '#FFFFFF,#D4E4FF,#7EB6FF,#4B83DB,#1E56A0'
+
       - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
