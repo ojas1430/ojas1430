@@ -132,6 +132,15 @@ object Developer {
 </p>
 
 <!-- Random Dev Meme -->
+## 💭 Developer Reality
 <div align="center">
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img align="left" width="150" src="https://media2.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=6c09b952aaa366d3d3d07b2dd47200ef2ac25e8cce897f06&rid=giphy.gif&ct=s" alt="android"/>
+    
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=A+day+in+tech%3A;10%25+coding%2C+90%25+Googling+why+it+doesn't+work+%F0%9F%98%85" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
+
+
