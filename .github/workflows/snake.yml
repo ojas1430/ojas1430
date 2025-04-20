@@ -21,20 +21,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
+            dist/snake.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
-          # Custom color configuration
-          color_snake: |
-            "#9333EA",    # Main purple
-            "#A855F7",    # Light purple
-            "#7E22CE"     # Dark purple
-          
+          # Custom color configuration for snake and dots
+          color_snake: "#f0883e"  # Bright orange snake
           color_dots: |
-            "#F5F5F5",    # Very light gray background
-            "#6B21A8",    # Light contribution
-            "#581C87",    # Medium contribution
-            "#3B0764",    # More contribution
-            "#2E0C51"     # Most contribution
+            "#161b22",    # Dark background
+            "#0e4429",    # Light contribution
+            "#006d32",    # Medium contribution
+            "#26a641",    # More contribution
+            "#39d353"     # Most contribution
 
       - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
