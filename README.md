@@ -18,8 +18,6 @@
 
 
 
-<!-- Matrix-style Contribution Graph -->
-<img src="https://github.com/ojas1430/ojas1430/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 
 
