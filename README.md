@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Focus-Android%20Development-brightgreen?style=for-the-badge&logo=android" />
   <img src="https://img.shields.io/badge/Lives%20in-India-red?style=for-the-badge&logo=google-maps" />
   <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge&logo=codecademy" />
-  <img src="https://img.shields.io/badge/Profile%20Views-${count}*10-brightgreen?style=for-the-badge&logo=profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=ojas1430&style=for-the-badge" />
 </p>
 
 <!-- Animated Skill Icons -->
