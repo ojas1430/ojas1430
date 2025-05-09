@@ -103,10 +103,15 @@ object Developer {
 [![Ojas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojas1430&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Animated Trophies -->
-## 🏆 GitHub Trophies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
+
+## 🏆 GitHub Trophies 🏆
+
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojas1430&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ojas1430&theme=juicyfresh&margin-w=15&no-frame=false" />
 </div>
+
+
 
 <!-- Connect Section with Animated Icons -->
 ## 🤝 Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
