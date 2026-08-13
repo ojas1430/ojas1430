@@ -1,5 +1,3 @@
-
-
 <!-- TOP BANNER -->
 
 <p align="center">
@@ -117,7 +115,7 @@
 
 <td align="center" width="150">
 
-<a href="https://leetcode.com/u/1430/](https://leetcode.com/u/ojas1430/">
+<a href="https://leetcode.com/u/ojas1430/">
 <img src="https://raw.githubusercontent.com/ojas1430/assets/main/Photos/code.png"
      width="65"
      alt="LeetCode">
@@ -125,7 +123,7 @@
 
 <br>
 
-<a href="https://leetcode.com/u/1430/">
+<a href="https://leetcode.com/u/ojas1430/">
 <b>LeetCode</b>
 </a>
 
