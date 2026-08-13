@@ -24,8 +24,6 @@
 <td width="60%" valign="middle">
 
 <pre>
-                         Ojas Choudhary
-
 . Role: ................................. Android Developer
 . Education: ............................ B.Tech Computer Science
 . College: .............................. Matrusri Engineering College
@@ -55,7 +53,7 @@
        width="45"
        valign="middle"
        alt="Android">
-  &nbsp; Android Developer &nbsp;
+  &nbsp; Native Android Developer &nbsp;
   <img src="https://raw.githubusercontent.com/ojas1430/assets/main/Photos/android.png"
        width="45"
        valign="middle"
