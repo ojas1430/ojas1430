@@ -175,14 +175,27 @@ and automatically captures the intruder’s photo to help protect your
 device and personal data.
 </p>
 
+<table width="100%">
+<tr>
+<td align="left">
 <a href="https://play.google.com/store/apps/details?id=com.ojasx.whotouchedmyphone&amp;hl=en_US">
 <b>Click here for Play Store</b>
 </a>
+</td>
+
+<td align="right">
+<a href="https://github.com/ojas1430/Who-Touched-My-Phone">
+<b>GitHub Link</b>
+</a>
+</td>
+</tr>
+</table>
 
 </td>
 
 </tr>
 </table>
+
 
 <!-- PLAYLIST PROGRESS -->
 
@@ -212,7 +225,26 @@ A productivity-focused Android app that helps users track YouTube playlist
 progress, mark videos as completed, and stay organized while learning.
 </p>
 
+<table width="100%">
+<tr>
+<td align="left">
 <a href="https://play.google.com/store/apps/details?id=com.ojasx.eduplay">
+<b>Click here for Play Store</b>
+</a>
+</td>
+
+<td align="right">
+<a href="https://github.com/ojas1430/YT-Progress">
+<b>GitHub Link</b>
+</a>
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 <b>Click here for Play Store</b>
 </a>
 
