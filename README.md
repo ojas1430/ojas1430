@@ -1,16 +1,4 @@
-<!-- ANDROID DEVELOPER HEADING -->
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ojas1430/assets/main/Photos/android.png"
-       width="45"
-       valign="middle"
-       alt="Android">
-  &nbsp; Android Developer &nbsp;
-  <img src="https://raw.githubusercontent.com/ojas1430/assets/main/Photos/android.png"
-       width="45"
-       valign="middle"
-       alt="Android">
-</h1>
 
 <!-- TOP BANNER -->
 
@@ -59,6 +47,20 @@
 
 </tr>
 </table>
+
+<!-- ANDROID DEVELOPER HEADING -->
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ojas1430/assets/main/Photos/android.png"
+       width="45"
+       valign="middle"
+       alt="Android">
+  &nbsp; Android Developer &nbsp;
+  <img src="https://raw.githubusercontent.com/ojas1430/assets/main/Photos/android.png"
+       width="45"
+       valign="middle"
+       alt="Android">
+</h1>
 
 <!-- PROFESSIONAL LINKS -->
 
